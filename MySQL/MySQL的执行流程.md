@@ -1,4 +1,4 @@
-![](../assets/images/MySQL-MySQL的执行流程-01-887be8c8a62e.webp)
+![[MySQL-MySQL的执行流程-01-887be8c8a62e.webp]]
 
 MySQL的架构分为两层：**Server层和存储引擎层**
 
@@ -17,7 +17,7 @@ mysql -h$ip -u$user -p
 
 ## 查询连接命令
 
-![](../assets/images/MySQL-MySQL的执行流程-02-9d0f389b8101.webp)
+![[MySQL-MySQL的执行流程-02-9d0f389b8101.webp]]
 
 ## 空闲连接断开
 

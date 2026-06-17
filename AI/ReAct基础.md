@@ -6,7 +6,7 @@
 
 ## 核心运转机制：T-A-O循环
 
-![](../assets/images/AI-ReAct基础-01-8885a2e62b94.webp)
+![[AI-ReAct基础-01-8885a2e62b94.webp]]
 
 - **Thought（思考）**：模型对当前任务进行推理分析，决定下一步该做什么。例如分解问题、制定计划、判断已有信息是否足够。
 - **Action（行动）**：模型根据思考结果执行具体操作，如调用工具、查询数据库、搜索信息等。
@@ -16,7 +16,7 @@
 
 ### 对比 Reasoning-Only
 
-![](../assets/images/AI-ReAct基础-02-736636ca35e4.webp)
+![[AI-ReAct基础-02-736636ca35e4.webp]]
 
 - **定义**：模型仅依靠内部推理（Thought）来回答问题，不执行任何外部操作。
 - **流程**：Question → Thought → Thought → … → Answer
@@ -25,7 +25,7 @@
 
 ### 对比 Action-Only
 
-![](../assets/images/AI-ReAct基础-03-09627dea3c60.webp)
+![[AI-ReAct基础-03-09627dea3c60.webp]]
 
 - **定义**：模型直接执行动作（Action）并获取观察结果（Observation），但不进行推理思考。
 - **流程**：Question → Action → Observation → Action → … → Answer
