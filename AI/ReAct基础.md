@@ -1,5 +1,3 @@
-<title>ReAct基础</title>
-
 # ReAct的定义
 
 **推理（Reasoning）+行动（Acting）**

@@ -1,5 +1,3 @@
-<title>MySQL的执行流程</title>
-
 ![](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=MDIzNGVhY2I5ZGViNDg2YmQyODRiMjc3ZjJlODA1MzFfYjU0YTQ4YTRlOTc4YWU5YTJhMzgyYmY1Y2I2ZWI4MzRfSUQ6NzY1MDQ0NDQ0Nzc1MDkwMDY4NF8xNzgxNjc0Nzg1OjE3ODE2NzgzODVfVjM)
 
 MySQL的架构分为两层：**Server层和存储引擎层**
