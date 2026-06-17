@@ -1,0 +1,1875 @@
+{
+    "nodes":  [
+                  {
+                      "id":  "n_z1_1",
+                      "type":  "text",
+                      "x":  612,
+                      "y":  1963,
+                      "width":  138,
+                      "height":  60,
+                      "text":  "计算机组成原理",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_d2_12",
+                      "type":  "text",
+                      "x":  100,
+                      "y":  1603,
+                      "width":  447,
+                      "height":  332,
+                      "text":  "[飞书图片节点]\nToken: GqsRbOe6qotSJfxgwwtcW6jln2f"
+                  },
+                  {
+                      "id":  "n_d2_4",
+                      "type":  "text",
+                      "x":  100,
+                      "y":  1603,
+                      "width":  500,
+                      "height":  417,
+                      "text":  "[飞书图片节点]\nToken: DyAxbFUSGoe4lYxILdpcYjaEnPf"
+                  },
+                  {
+                      "id":  "n_d2_11",
+                      "type":  "text",
+                      "x":  148,
+                      "y":  1692,
+                      "width":  500,
+                      "height":  282,
+                      "text":  "[飞书图片节点]\nToken: XVJjbz1z5o4kGnxOLgOcTBprnNh"
+                  },
+                  {
+                      "id":  "n_d2_2",
+                      "type":  "text",
+                      "x":  119,
+                      "y":  1603,
+                      "width":  298,
+                      "height":  174,
+                      "text":  "[飞书图片节点]\nToken: WhNHbEQ2So6SfBxcQ4xc6eBxn2c"
+                  },
+                  {
+                      "id":  "n_d2_9",
+                      "type":  "text",
+                      "x":  149,
+                      "y":  1692,
+                      "width":  500,
+                      "height":  304,
+                      "text":  "[飞书图片节点]\nToken: WG5XbTcn2oHowkxgjqdcSTJonjb"
+                  },
+                  {
+                      "id":  "n_d2_1",
+                      "type":  "text",
+                      "x":  149,
+                      "y":  1651,
+                      "width":  500,
+                      "height":  156,
+                      "text":  "[飞书图片节点]\nToken: CkqybBmqioCy5MxsJ6QcXCArnyc"
+                  },
+                  {
+                      "id":  "n_d2_6",
+                      "type":  "text",
+                      "x":  100,
+                      "y":  1603,
+                      "width":  500,
+                      "height":  114,
+                      "text":  "[飞书图片节点]\nToken: RuUbbUF7JouY9NxtpIocRlFNnhb"
+                  },
+                  {
+                      "id":  "n_d2_3",
+                      "type":  "text",
+                      "x":  100,
+                      "y":  1603,
+                      "width":  500,
+                      "height":  156,
+                      "text":  "[飞书图片节点]\nToken: MPBEbvHTYon2Zmx2tFsc32ZQnmo"
+                  },
+                  {
+                      "id":  "n_d2_15",
+                      "type":  "text",
+                      "x":  100,
+                      "y":  1603,
+                      "width":  292,
+                      "height":  397,
+                      "text":  "[飞书图片节点]\nToken: UIfrbXxLzoOO0txnSqzcbh5HnGe"
+                  },
+                  {
+                      "id":  "n_d2_7",
+                      "type":  "text",
+                      "x":  100,
+                      "y":  1603,
+                      "width":  500,
+                      "height":  151,
+                      "text":  "[飞书图片节点]\nToken: LxfEbfNO6oj6hYxC2iZcBt1Dnvc"
+                  },
+                  {
+                      "id":  "n_d2_8",
+                      "type":  "text",
+                      "x":  100,
+                      "y":  1603,
+                      "width":  500,
+                      "height":  178,
+                      "text":  "[飞书图片节点]\nToken: VEbJbJ3TQoXKSIxzB8ucRTgxnV9"
+                  },
+                  {
+                      "id":  "n_d2_5",
+                      "type":  "text",
+                      "x":  100,
+                      "y":  1603,
+                      "width":  399,
+                      "height":  149,
+                      "text":  "[飞书图片节点]\nToken: EkfAb7zdhoBViFx41eCcXl3envg"
+                  },
+                  {
+                      "id":  "n_d2_14",
+                      "type":  "text",
+                      "x":  100,
+                      "y":  1603,
+                      "width":  408,
+                      "height":  419,
+                      "text":  "[飞书图片节点]\nToken: L1RXbXPLvoLncaxmwi1cQXHznKh"
+                  },
+                  {
+                      "id":  "n_d2_10",
+                      "type":  "text",
+                      "x":  144,
+                      "y":  1733,
+                      "width":  500,
+                      "height":  270,
+                      "text":  "[飞书图片节点]\nToken: ClyKboIn8oukHmxsIerckRUunGt"
+                  },
+                  {
+                      "id":  "n_z1_41",
+                      "type":  "text",
+                      "x":  810,
+                      "y":  406,
+                      "width":  147,
+                      "height":  60,
+                      "text":  "1.1计算机的基本组成",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z1_42",
+                      "type":  "text",
+                      "x":  1017,
+                      "y":  295,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "计算机系统",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z1_43",
+                      "type":  "text",
+                      "x":  1163,
+                      "y":  218,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "硬件",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z1_44",
+                      "type":  "text",
+                      "x":  1163,
+                      "y":  372,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "软件",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z1_45",
+                      "type":  "text",
+                      "x":  1267,
+                      "y":  354,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "系统软件",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z1_46",
+                      "type":  "text",
+                      "x":  1399,
+                      "y":  354,
+                      "width":  352,
+                      "height":  60,
+                      "text":  "操作系统、语言处理程序、数据库管理系统等系统工具",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z1_47",
+                      "type":  "text",
+                      "x":  1267,
+                      "y":  390,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "应用软件",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z1_48",
+                      "type":  "text",
+                      "x":  1267,
+                      "y":  154,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "主机",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z1_49",
+                      "type":  "text",
+                      "x":  1267,
+                      "y":  281,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "外设（I/O设备）",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z1_50",
+                      "type":  "text",
+                      "x":  1371,
+                      "y":  118,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "CPU",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z1_51",
+                      "type":  "text",
+                      "x":  1371,
+                      "y":  191,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "内存",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z1_53",
+                      "type":  "text",
+                      "x":  1475,
+                      "y":  100,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "运算器",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z1_54",
+                      "type":  "text",
+                      "x":  1475,
+                      "y":  136,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "控制器",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z1_55",
+                      "type":  "text",
+                      "x":  1475,
+                      "y":  173,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "cache",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z1_56",
+                      "type":  "text",
+                      "x":  1475,
+                      "y":  209,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "主存",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z1_57",
+                      "type":  "text",
+                      "x":  1589,
+                      "y":  173,
+                      "width":  222,
+                      "height":  60,
+                      "text":  "解决cpu和内存的速度不匹配问题",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z1_58",
+                      "type":  "text",
+                      "x":  1447,
+                      "y":  245,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "外存",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z1_59",
+                      "type":  "text",
+                      "x":  1551,
+                      "y":  245,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "扩容",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z1_60",
+                      "type":  "text",
+                      "x":  1447,
+                      "y":  281,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "输入设备",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z1_61",
+                      "type":  "text",
+                      "x":  1447,
+                      "y":  318,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "输出设备",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_w1_1",
+                      "type":  "text",
+                      "x":  1271,
+                      "y":  218,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "存储器",
+                      "color":  "#fef1ce"
+                  },
+                  {
+                      "id":  "n_w1_3",
+                      "type":  "text",
+                      "x":  1833,
+                      "y":  143,
+                      "width":  135,
+                      "height":  60,
+                      "text":  "CPU可以直接访问内存，不能直接访问外存",
+                      "color":  "#dff5e5"
+                  },
+                  {
+                      "id":  "n_w1_4",
+                      "type":  "text",
+                      "x":  1812,
+                      "y":  232,
+                      "width":  218,
+                      "height":  80,
+                      "text":  "二级存储系统：内存、外存\n三级存储系统：cache、主存、辅存",
+                      "color":  "#dff5e5"
+                  },
+                  {
+                      "id":  "n_z2_62",
+                      "type":  "text",
+                      "x":  1017,
+                      "y":  517,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "冯诺依曼计算机",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_65",
+                      "type":  "text",
+                      "x":  1191,
+                      "y":  426,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "运算器",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_74",
+                      "type":  "text",
+                      "x":  1191,
+                      "y":  463,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "控制器",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_75",
+                      "type":  "text",
+                      "x":  1191,
+                      "y":  499,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "存储器",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_76",
+                      "type":  "text",
+                      "x":  1191,
+                      "y":  535,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "输入设备",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_77",
+                      "type":  "text",
+                      "x":  1191,
+                      "y":  572,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "输出设备 ",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_78",
+                      "type":  "text",
+                      "x":  1309,
+                      "y":  426,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "进行算术运算",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_79",
+                      "type":  "text",
+                      "x":  1309,
+                      "y":  463,
+                      "width":  128,
+                      "height":  60,
+                      "text":  "对计算机进行控制",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_80",
+                      "type":  "text",
+                      "x":  1309,
+                      "y":  499,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "存放程序和设备",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_81",
+                      "type":  "text",
+                      "x":  1323,
+                      "y":  535,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "鼠标键盘等",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_82",
+                      "type":  "text",
+                      "x":  1326,
+                      "y":  572,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "显示屏等",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_83",
+                      "type":  "text",
+                      "x":  1191,
+                      "y":  608,
+                      "width":  352,
+                      "height":  60,
+                      "text":  "特点：指令和数据以不加区别的混合存储在统一存储器",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_84",
+                      "type":  "text",
+                      "x":  810,
+                      "y":  901,
+                      "width":  203,
+                      "height":  60,
+                      "text":  "1.2计算机硬件的主要技术指标",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_85",
+                      "type":  "text",
+                      "x":  1073,
+                      "y":  670,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "机器字长 ",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_86",
+                      "type":  "text",
+                      "x":  1208,
+                      "y":  660,
+                      "width":  590,
+                      "height":  60,
+                      "text":  "运算器一次能完成二进制运算的位数，字长越长，计算的精度越高。一般等于内部寄存器的大小。 ",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_87",
+                      "type":  "text",
+                      "x":  1073,
+                      "y":  1131,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "运算速度",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_88",
+                      "type":  "text",
+                      "x":  1379,
+                      "y":  761,
+                      "width":  131,
+                      "height":  60,
+                      "text":  " 主频（时钟频率）",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_89",
+                      "type":  "text",
+                      "x":  1570,
+                      "y":  717,
+                      "width":  286,
+                      "height":  146,
+                      "text":  "主频（f）是CPU内数字脉冲信号震荡的速度\n度量单位：MHz、GHz\n1M≈10的6次\n1G≈10的9次\n震荡速度越快，计算机运算速度越快",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_90",
+                      "type":  "text",
+                      "x":  1379,
+                      "y":  866,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "时钟周期（T）",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_91",
+                      "type":  "text",
+                      "x":  1547,
+                      "y":  842,
+                      "width":  252,
+                      "height":  102,
+                      "text":  "主频的倒数\nT=1/f\n度量单位：μs（微妙）、ns（纳秒）",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_92",
+                      "type":  "text",
+                      "x":  1205,
+                      "y":  814,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "主频和时钟周期",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_94",
+                      "type":  "text",
+                      "x":  1205,
+                      "y":  1131,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "CPU速度",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_95",
+                      "type":  "text",
+                      "x":  1337,
+                      "y":  927,
+                      "width":  369,
+                      "height":  80,
+                      "text":  "CPI：执行一条指令所需的平均时钟周期数\nCPI=执行某段程序所需的CPU时钟周期数/程序指令条数",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_96",
+                      "type":  "text",
+                      "x":  1337,
+                      "y":  991,
+                      "width":  404,
+                      "height":  124,
+                      "text":  "CPU执行时间：CPU执行一般程序所占用的CPU时间\nCPU执行时间=执行某段程序所需的CPU时钟周期数*时钟周期\n=执行某段程序所需要的时钟周期数/时钟频率\n=程序指令数*CPI/时钟频率",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_97",
+                      "type":  "text",
+                      "x":  1337,
+                      "y":  1096,
+                      "width":  450,
+                      "height":  124,
+                      "text":  "MIPS：每秒百万（10的6次）指令数，即单位时间内执行的定点指令数\nMIPS=指令条数/（程序执行时间*10的6次）\n=时钟频率（MHz）/CPI\n（即每秒包含的百万时钟周期数/执行一条指令所需的时钟周期）",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_98",
+                      "type":  "text",
+                      "x":  1337,
+                      "y":  1202,
+                      "width":  392,
+                      "height":  80,
+                      "text":  "MFLOPS：每秒百万次浮点操作数，衡量机器浮点操作的性能\nMFLOPS=浮点操作次数/（程序执行时间*10的6次）",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_99",
+                      "type":  "text",
+                      "x":  1337,
+                      "y":  1305,
+                      "width":  128,
+                      "height":  60,
+                      "text":  "吞吐量和响应时间",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_100",
+                      "type":  "text",
+                      "x":  1525,
+                      "y":  1266,
+                      "width":  366,
+                      "height":  80,
+                      "text":  "吞吐量：一台计算机在某一时间间隔内能够处理的信息量\n单位：字节/秒（B/S）",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_102",
+                      "type":  "text",
+                      "x":  1525,
+                      "y":  1331,
+                      "width":  450,
+                      "height":  60,
+                      "text":  "响应时间：从输入有效到系统产生响应的时间度量，用时间单位来表示",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_103",
+                      "type":  "text",
+                      "x":  1205,
+                      "y":  1459,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "主存性能",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_104",
+                      "type":  "text",
+                      "x":  1337,
+                      "y":  1367,
+                      "width":  343,
+                      "height":  146,
+                      "text":  "主存容量：主存储器所能存储的二进制数据的位数\n单位：KB、MB、GB、TB\nK=2的10次，M=2的20次，G=2的30次，T=2的40次\nB=8位（1个字节）\n存储器容量越大，记忆的二进制越多",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_105",
+                      "type":  "text",
+                      "x":  1337,
+                      "y":  1492,
+                      "width":  352,
+                      "height":  80,
+                      "text":  "主存带宽：单位时间内从主存储器读出的二进制信息量\n单位：字节/秒（B/S）",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_109",
+                      "type":  "text",
+                      "x":  810,
+                      "y":  3540,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "2.1总线概述",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_110",
+                      "type":  "text",
+                      "x":  961,
+                      "y":  3540,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "总线",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_111",
+                      "type":  "text",
+                      "x":  1065,
+                      "y":  1573,
+                      "width":  614,
+                      "height":  241,
+                      "text":  "定义：是构成计算机系统的互联机构，是多个系统功能部件之间进行信息传送的公共通路\n作用：借助于总线连接，计算机在个系统功能部件之间实现地址、数据和控制信息的交换，并在争用资源的基础上进行工作",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_112",
+                      "type":  "text",
+                      "x":  1065,
+                      "y":  1876,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "特性",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_113",
+                      "type":  "text",
+                      "x":  1169,
+                      "y":  1822,
+                      "width":  259,
+                      "height":  60,
+                      "text":  "机械特性/物理特性：根数、插头、引脚",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_114",
+                      "type":  "text",
+                      "x":  1169,
+                      "y":  1858,
+                      "width":  254,
+                      "height":  60,
+                      "text":  "功能特性：传输地址、数据、控制信号",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_115",
+                      "type":  "text",
+                      "x":  1169,
+                      "y":  1894,
+                      "width":  254,
+                      "height":  60,
+                      "text":  "电气特性：传输方向和有效的电平范围",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_116",
+                      "type":  "text",
+                      "x":  1169,
+                      "y":  1931,
+                      "width":  184,
+                      "height":  60,
+                      "text":  "时间特性：信号的时序关系",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_117",
+                      "type":  "text",
+                      "x":  1065,
+                      "y":  2328,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "分类",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_118",
+                      "type":  "text",
+                      "x":  1169,
+                      "y":  1967,
+                      "width":  352,
+                      "height":  210,
+                      "text":  "片内总线：CPU芯片内部连接寄存器和运算器等的总线",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_119",
+                      "type":  "text",
+                      "x":  1169,
+                      "y":  2185,
+                      "width":  516,
+                      "height":  193,
+                      "text":  "系统总线：连接计算机内部CPU、主存和I/O接口等功能部件的总线",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_120",
+                      "type":  "text",
+                      "x":  1169,
+                      "y":  2386,
+                      "width":  516,
+                      "height":  453,
+                      "text":  "通信总线：连接计算机之间和其他设备的总线",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_121",
+                      "type":  "text",
+                      "x":  1905,
+                      "y":  2231,
+                      "width":  142,
+                      "height":  60,
+                      "text":  "数据总线：传输数据",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_122",
+                      "type":  "text",
+                      "x":  1905,
+                      "y":  2267,
+                      "width":  142,
+                      "height":  60,
+                      "text":  "地址总线：传输地址",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_123",
+                      "type":  "text",
+                      "x":  1905,
+                      "y":  2304,
+                      "width":  240,
+                      "height":  60,
+                      "text":  "控制总线：传输控制信号和时序信号",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_126",
+                      "type":  "text",
+                      "x":  1745,
+                      "y":  2267,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "依据功能分类",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_127",
+                      "type":  "text",
+                      "x":  1065,
+                      "y":  2847,
+                      "width":  415,
+                      "height":  185,
+                      "text":  "总线宽度：数据线的根数 ",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_128",
+                      "type":  "text",
+                      "x":  1065,
+                      "y":  3041,
+                      "width":  520,
+                      "height":  124,
+                      "text":  "  总线数据传输率（总线带宽）：总线每秒传输的字节数\n总线每秒传输字节数（MB/s）=总线一次数据传输字节数/一次数据传输时间\n=数据总线宽度（B）/（总线时钟周期（ns）*一次数据传输所用周期数）\n=数据总线宽度（B）*总线时钟频率（MHz）/完成一次数据传输所用时钟周期数 ",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_129",
+                      "type":  "text",
+                      "x":  1065,
+                      "y":  3399,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "总线结构",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_130",
+                      "type":  "text",
+                      "x":  1197,
+                      "y":  3146,
+                      "width":  516,
+                      "height":  150,
+                      "text":  "单总线结构",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_131",
+                      "type":  "text",
+                      "x":  1197,
+                      "y":  3304,
+                      "width":  516,
+                      "height":  188,
+                      "text":  "双总线结构",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_132",
+                      "type":  "text",
+                      "x":  1197,
+                      "y":  3499,
+                      "width":  516,
+                      "height":  214,
+                      "text":  "三总线结构 ",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_w2_6",
+                      "type":  "text",
+                      "x":  1713,
+                      "y":  3371,
+                      "width":  160,
+                      "height":  160,
+                      "text":  "多总线结构将不同速度的部件和设备单独连接，目的是提高系统吞吐量。",
+                      "color":  "#fef1ce"
+                  },
+                  {
+                      "id":  "n_z2_133",
+                      "type":  "text",
+                      "x":  1065,
+                      "y":  4276,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "总线仲裁",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_134",
+                      "type":  "text",
+                      "x":  1197,
+                      "y":  3752,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "产生原因",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_135",
+                      "type":  "text",
+                      "x":  1197,
+                      "y":  4800,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "分类",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_136",
+                      "type":  "text",
+                      "x":  1329,
+                      "y":  3721,
+                      "width":  408,
+                      "height":  124,
+                      "text":  "总线上的功能模块有主动和被动两种形态。\n主设备可以启动一个总线周期，而从设备响应主方请求。\n每次总线操作，只能由一个主设备，但是可以有多个从设备。\n为解决主设备争用总线控制权的问题，必须设置总线仲裁部件。",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_137",
+                      "type":  "text",
+                      "x":  1301,
+                      "y":  4460,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "集中式",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_138",
+                      "type":  "text",
+                      "x":  1301,
+                      "y":  5116,
+                      "width":  376,
+                      "height":  102,
+                      "text":  "分布式\n分布式仲裁方式不需要中央仲裁器\n总线控制逻辑分散在连接于总线上的各个部件或设备中。",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_139",
+                      "type":  "text",
+                      "x":  1419,
+                      "y":  4460,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "优先仲裁方式",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_140",
+                      "type":  "text",
+                      "x":  1579,
+                      "y":  3818,
+                      "width":  615,
+                      "height":  429,
+                      "text":  "链式查询方式：由总线授权线BG串行查询I/O接口是否发送总线请求，当达到的接口有总线请求则该设备获得总线控制权\n特点：离中央仲裁器越近的设备有最高的优先权，离总线控制器越远，优先权越低\n优点：实现总线控制的线数量少，容易扩充设备\n缺点：对电路故障很敏感，优先级固定",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_141",
+                      "type":  "text",
+                      "x":  1579,
+                      "y":  4256,
+                      "width":  604,
+                      "height":  436,
+                      "text":  "计数器定时查询方式：计数器开始计数后，将计数值通过一组地址线发向各设备，当地址线上的计数值与请求总线的设备地址相一致时，该设备获得总线使用权\n优点：可灵活改变优先次序\n（计数器从0开始，则与链式查询优先次序相同。\n从终止点开始，则每个设备优先级相等。\n可程序设置计数器初值，决定什么设备优先级最高）\n缺点：以增加控制线数为代价",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_142",
+                      "type":  "text",
+                      "x":  1579,
+                      "y":  4700,
+                      "width":  613,
+                      "height":  408,
+                      "text":  "独立请求方式：每一个设备均有一对BR和BG，总线仲裁器的排队电路根据一定优先次序决定首先响应哪个设备的请求。\n优点：响应时间快，即确定优先响应的设备所花费的时间少\n对优先次序的控制相当灵活\n缺点：以增加硬件电路和控制线数为代价",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_143",
+                      "type":  "text",
+                      "x":  1065,
+                      "y":  5377,
+                      "width":  320,
+                      "height":  102,
+                      "text":  "总线定时（通信）方式\n目的：解决主机与外设通过总线进行信息交换时\n在时间上的配合和动作的协调问题",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_144",
+                      "type":  "text",
+                      "x":  1445,
+                      "y":  5200,
+                      "width":  604,
+                      "height":  168,
+                      "text":  "同步方式：事件出现在总线上的时刻由总线时钟信号确定，总线周期长度固定。在一个总线周期中进行一次数据传输。\n优点：统一时钟规定发送和接收信息的时间，具有较高的传输频率。\n适用于总线长度较短、各功能模块速度比较接近的情况。\n缺点：必须适应在总线上最慢部件的需要\n各功能模块速度相差很大时会大大损耗总线效率，因此效率较低、时间利用不够合理\n没办法知道被访问的外设是否响应，故可靠性较低",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_145",
+                      "type":  "text",
+                      "x":  1445,
+                      "y":  5366,
+                      "width":  590,
+                      "height":  102,
+                      "text":  "异步方式：不需要统一的公共时钟信号，依靠双方相互制约的应答信号或互锁协议实现通信定时，总线周期长度可变\n优点：总线周期长度可变，故可将快速和慢速的功能模块都连接到同一总线上，可靠性更高\n缺点：以增加总线复杂性和成本为代价",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_146",
+                      "type":  "text",
+                      "x":  1445,
+                      "y":  5471,
+                      "width":  604,
+                      "height":  60,
+                      "text":  "半同步方式：同步异步结合。总体采用同步方式，不同之处在于增加一根wait等待响应信号线用于握手联络，从设备处理速度较慢时，增加时钟周期",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_147",
+                      "type":  "text",
+                      "x":  1445,
+                      "y":  5528,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "周期分裂方式",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_148",
+                      "type":  "text",
+                      "x":  2095,
+                      "y":  5391,
+                      "width":  604,
+                      "height":  60,
+                      "text":  "握手原则：根据主设备发出交换信息的“请求”信号和从设备接收到申请后发出的“回答”信号的撤销是否互锁，分为三种情况：不互锁、半互锁、全互锁",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_149",
+                      "type":  "text",
+                      "x":  2759,
+                      "y":  5223,
+                      "width":  463,
+                      "height":  368,
+                      "text":  "不互锁",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_151",
+                      "type":  "text",
+                      "x":  2759,
+                      "y":  5600,
+                      "width":  424,
+                      "height":  455,
+                      "text":  "半互锁",
+                      "color":  "#4e83fd"
+                  },
+                  {
+                      "id":  "n_z2_152",
+                      "type":  "text",
+                      "x":  2759,
+                      "y":  6063,
+                      "width":  308,
+                      "height":  433,
+                      "text":  "全互锁",
+                      "color":  "#4e83fd"
+                  }
+              ],
+    "edges":  [
+                  {
+                      "id":  "e_1",
+                      "fromNode":  "n_z2_131",
+                      "fromSide":  "top",
+                      "toNode":  "n_d2_7",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_2",
+                      "fromNode":  "n_z2_132",
+                      "fromSide":  "top",
+                      "toNode":  "n_d2_8",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_3",
+                      "fromNode":  "n_z2_152",
+                      "fromSide":  "top",
+                      "toNode":  "n_d2_15",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_4",
+                      "fromNode":  "n_z2_141",
+                      "fromSide":  "top",
+                      "toNode":  "n_d2_10",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_5",
+                      "fromNode":  "n_z2_151",
+                      "fromSide":  "top",
+                      "toNode":  "n_d2_14",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_6",
+                      "fromNode":  "n_z2_127",
+                      "fromSide":  "top",
+                      "toNode":  "n_d2_5",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_7",
+                      "fromNode":  "n_z2_119",
+                      "fromSide":  "left",
+                      "toNode":  "n_d2_3",
+                      "toSide":  "right"
+                  },
+                  {
+                      "id":  "e_8",
+                      "fromNode":  "n_z2_120",
+                      "fromSide":  "left",
+                      "toNode":  "n_d2_4",
+                      "toSide":  "right"
+                  },
+                  {
+                      "id":  "e_9",
+                      "fromNode":  "n_z2_142",
+                      "fromSide":  "top",
+                      "toNode":  "n_d2_11",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_10",
+                      "fromNode":  "n_z2_149",
+                      "fromSide":  "top",
+                      "toNode":  "n_d2_12",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_11",
+                      "fromNode":  "n_z2_111",
+                      "fromSide":  "left",
+                      "toNode":  "n_d2_1",
+                      "toSide":  "right"
+                  },
+                  {
+                      "id":  "e_12",
+                      "fromNode":  "n_z2_130",
+                      "fromSide":  "top",
+                      "toNode":  "n_d2_6",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_13",
+                      "fromNode":  "n_z2_118",
+                      "fromSide":  "left",
+                      "toNode":  "n_d2_2",
+                      "toSide":  "right"
+                  },
+                  {
+                      "id":  "e_14",
+                      "fromNode":  "n_z2_140",
+                      "fromSide":  "top",
+                      "toNode":  "n_d2_9",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_15",
+                      "fromNode":  "n_z2_110",
+                      "fromSide":  "top",
+                      "toNode":  "n_z2_117",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_16",
+                      "fromNode":  "n_z2_148",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_149",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_17",
+                      "fromNode":  "n_z1_51",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_55",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_18",
+                      "fromNode":  "n_z1_55",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_57",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_19",
+                      "fromNode":  "n_z2_65",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_78",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_20",
+                      "fromNode":  "n_z2_76",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_81",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_21",
+                      "fromNode":  "n_z2_133",
+                      "fromSide":  "top",
+                      "toNode":  "n_z2_134",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_22",
+                      "fromNode":  "n_z2_143",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_145",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_23",
+                      "fromNode":  "n_z2_88",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_89",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_24",
+                      "fromNode":  "n_z2_110",
+                      "fromSide":  "top",
+                      "toNode":  "n_z2_111",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_25",
+                      "fromNode":  "n_z2_126",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_121",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_26",
+                      "fromNode":  "n_z2_129",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_131",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_27",
+                      "fromNode":  "n_z2_110",
+                      "fromSide":  "top",
+                      "toNode":  "n_z2_129",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_28",
+                      "fromNode":  "n_z2_143",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_147",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_29",
+                      "fromNode":  "n_z1_1",
+                      "fromSide":  "top",
+                      "toNode":  "n_z1_41",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_30",
+                      "fromNode":  "n_z1_44",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_45",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_31",
+                      "fromNode":  "n_z2_62",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_83",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_32",
+                      "fromNode":  "n_z2_92",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_88",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_33",
+                      "fromNode":  "n_z2_137",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_139",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_34",
+                      "fromNode":  "n_z2_62",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_76",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_35",
+                      "fromNode":  "n_z2_87",
+                      "fromSide":  "bottom",
+                      "toNode":  "n_z2_103",
+                      "toSide":  "top"
+                  },
+                  {
+                      "id":  "e_36",
+                      "fromNode":  "n_z2_117",
+                      "fromSide":  "top",
+                      "toNode":  "n_z2_118",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_37",
+                      "fromNode":  "n_z2_133",
+                      "fromSide":  "bottom",
+                      "toNode":  "n_z2_135",
+                      "toSide":  "top"
+                  },
+                  {
+                      "id":  "e_38",
+                      "fromNode":  "n_z1_41",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_42",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_39",
+                      "fromNode":  "n_z1_49",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_60",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_40",
+                      "fromNode":  "n_z2_84",
+                      "fromSide":  "top",
+                      "toNode":  "n_z2_85",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_41",
+                      "fromNode":  "n_z2_92",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_90",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_42",
+                      "fromNode":  "n_z2_110",
+                      "fromSide":  "top",
+                      "toNode":  "n_z2_127",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_43",
+                      "fromNode":  "n_z2_139",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_141",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_44",
+                      "fromNode":  "n_z2_139",
+                      "fromSide":  "bottom",
+                      "toNode":  "n_z2_142",
+                      "toSide":  "top"
+                  },
+                  {
+                      "id":  "e_45",
+                      "fromNode":  "n_z2_148",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_151",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_46",
+                      "fromNode":  "n_z2_74",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_79",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_47",
+                      "fromNode":  "n_z2_62",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_75",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_48",
+                      "fromNode":  "n_z2_90",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_91",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_49",
+                      "fromNode":  "n_z2_117",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_120",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_50",
+                      "fromNode":  "n_z2_110",
+                      "fromSide":  "top",
+                      "toNode":  "n_z2_112",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_51",
+                      "fromNode":  "n_z2_112",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_114",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_52",
+                      "fromNode":  "n_z2_119",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_126",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_53",
+                      "fromNode":  "n_z2_126",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_122",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_54",
+                      "fromNode":  "n_z1_50",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_54",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_55",
+                      "fromNode":  "n_z1_49",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_58",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_56",
+                      "fromNode":  "n_z2_77",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_82",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_57",
+                      "fromNode":  "n_z2_99",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_102",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_58",
+                      "fromNode":  "n_z2_139",
+                      "fromSide":  "top",
+                      "toNode":  "n_z2_140",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_59",
+                      "fromNode":  "n_z2_148",
+                      "fromSide":  "bottom",
+                      "toNode":  "n_z2_152",
+                      "toSide":  "top"
+                  },
+                  {
+                      "id":  "e_60",
+                      "fromNode":  "n_z2_112",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_116",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_61",
+                      "fromNode":  "n_z2_126",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_123",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_62",
+                      "fromNode":  "n_z2_110",
+                      "fromSide":  "top",
+                      "toNode":  "n_z2_128",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_63",
+                      "fromNode":  "n_z2_110",
+                      "fromSide":  "bottom",
+                      "toNode":  "n_z2_133",
+                      "toSide":  "top"
+                  },
+                  {
+                      "id":  "e_64",
+                      "fromNode":  "n_z1_42",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_43",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_65",
+                      "fromNode":  "n_z1_48",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_51",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_66",
+                      "fromNode":  "n_z1_43",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_49",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_67",
+                      "fromNode":  "n_z2_94",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_96",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_68",
+                      "fromNode":  "n_z2_135",
+                      "fromSide":  "bottom",
+                      "toNode":  "n_z2_138",
+                      "toSide":  "top"
+                  },
+                  {
+                      "id":  "e_69",
+                      "fromNode":  "n_z2_110",
+                      "fromSide":  "bottom",
+                      "toNode":  "n_z2_143",
+                      "toSide":  "top"
+                  },
+                  {
+                      "id":  "e_70",
+                      "fromNode":  "n_z2_145",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_148",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_71",
+                      "fromNode":  "n_z1_42",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_44",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_72",
+                      "fromNode":  "n_z1_41",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_62",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_73",
+                      "fromNode":  "n_z2_103",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_104",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_74",
+                      "fromNode":  "n_z1_1",
+                      "fromSide":  "bottom",
+                      "toNode":  "n_z2_109",
+                      "toSide":  "top"
+                  },
+                  {
+                      "id":  "e_75",
+                      "fromNode":  "n_z2_87",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_94",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_76",
+                      "fromNode":  "n_z2_135",
+                      "fromSide":  "top",
+                      "toNode":  "n_z2_137",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_77",
+                      "fromNode":  "n_z1_48",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_50",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_78",
+                      "fromNode":  "n_z2_62",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_77",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_79",
+                      "fromNode":  "n_z1_1",
+                      "fromSide":  "top",
+                      "toNode":  "n_z2_84",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_80",
+                      "fromNode":  "n_z2_87",
+                      "fromSide":  "top",
+                      "toNode":  "n_z2_92",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_81",
+                      "fromNode":  "n_z2_134",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_136",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_82",
+                      "fromNode":  "n_z1_43",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_48",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_83",
+                      "fromNode":  "n_z1_49",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_61",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_84",
+                      "fromNode":  "n_z2_109",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_110",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_85",
+                      "fromNode":  "n_z2_129",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_132",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_86",
+                      "fromNode":  "n_z2_75",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_80",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_87",
+                      "fromNode":  "n_z2_117",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_119",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_88",
+                      "fromNode":  "n_z2_94",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_98",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_89",
+                      "fromNode":  "n_z2_112",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_113",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_90",
+                      "fromNode":  "n_z2_129",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_130",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_91",
+                      "fromNode":  "n_z1_58",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_59",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_92",
+                      "fromNode":  "n_z1_45",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_46",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_93",
+                      "fromNode":  "n_z2_84",
+                      "fromSide":  "bottom",
+                      "toNode":  "n_z2_87",
+                      "toSide":  "top"
+                  },
+                  {
+                      "id":  "e_94",
+                      "fromNode":  "n_z2_94",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_97",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_95",
+                      "fromNode":  "n_z2_62",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_65",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_96",
+                      "fromNode":  "n_z2_103",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_105",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_97",
+                      "fromNode":  "n_z2_112",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_115",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_98",
+                      "fromNode":  "n_z2_94",
+                      "fromSide":  "bottom",
+                      "toNode":  "n_z2_99",
+                      "toSide":  "top"
+                  },
+                  {
+                      "id":  "e_99",
+                      "fromNode":  "n_z2_99",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_100",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_100",
+                      "fromNode":  "n_z2_143",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_144",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_101",
+                      "fromNode":  "n_z1_51",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_56",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_102",
+                      "fromNode":  "n_z2_62",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_74",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_103",
+                      "fromNode":  "n_z2_85",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_86",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_104",
+                      "fromNode":  "n_z2_94",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_95",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_105",
+                      "fromNode":  "n_z1_50",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_53",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_106",
+                      "fromNode":  "n_z1_44",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_47",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_107",
+                      "fromNode":  "n_z2_143",
+                      "fromSide":  "right",
+                      "toNode":  "n_z2_146",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_108",
+                      "fromNode":  "n_w1_1",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_58",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_109",
+                      "fromNode":  "n_w1_1",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_51",
+                      "toSide":  "left"
+                  }
+              ]
+}

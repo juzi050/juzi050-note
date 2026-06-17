@@ -1,0 +1,1213 @@
+{
+    "nodes":  [
+                  {
+                      "id":  "n_d1_5",
+                      "type":  "text",
+                      "x":  158,
+                      "y":  1909,
+                      "width":  500,
+                      "height":  247,
+                      "text":  "[飞书图片节点]\nToken: XS6Hb2tTWo1EkdxZTcsc8rnrnWc"
+                  },
+                  {
+                      "id":  "n_d1_1",
+                      "type":  "text",
+                      "x":  158,
+                      "y":  1881,
+                      "width":  500,
+                      "height":  172,
+                      "text":  "[飞书图片节点]\nToken: P9rWbNHMooL2jQxX51PcRObUnlf"
+                  },
+                  {
+                      "id":  "n_d1_6",
+                      "type":  "text",
+                      "x":  186,
+                      "y":  1929,
+                      "width":  500,
+                      "height":  277,
+                      "text":  "[飞书图片节点]\nToken: HmLYbGE5ton3VaxKvLic1vX5nXb"
+                  },
+                  {
+                      "id":  "n_z1_46",
+                      "type":  "text",
+                      "x":  100,
+                      "y":  2120,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "存储器",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_d1_7",
+                      "type":  "text",
+                      "x":  158,
+                      "y":  1909,
+                      "width":  500,
+                      "height":  90,
+                      "text":  "[飞书图片节点]\nToken: Vdy6bsPTkohvbcxw3W8cX2wLnbg"
+                  },
+                  {
+                      "id":  "n_d1_9",
+                      "type":  "text",
+                      "x":  158,
+                      "y":  1909,
+                      "width":  500,
+                      "height":  220,
+                      "text":  "[飞书图片节点]\nToken: VnOXbERdIoUbcXxjPKwc5PaFnXb"
+                  },
+                  {
+                      "id":  "n_d1_8",
+                      "type":  "text",
+                      "x":  163,
+                      "y":  1909,
+                      "width":  369,
+                      "height":  97,
+                      "text":  "[飞书图片节点]\nToken: ZMq2bFZStoXeIOx0QVQcu5z2ngf"
+                  },
+                  {
+                      "id":  "n_d1_14",
+                      "type":  "text",
+                      "x":  158,
+                      "y":  1881,
+                      "width":  500,
+                      "height":  247,
+                      "text":  "[飞书图片节点]\nToken: DjcEbSw7JoJiigxrNLfcX2BIn9e"
+                  },
+                  {
+                      "id":  "n_d1_11",
+                      "type":  "text",
+                      "x":  158,
+                      "y":  1881,
+                      "width":  500,
+                      "height":  271,
+                      "text":  "[飞书图片节点]\nToken: AKubbrmzJoLCqTxq8VbcoEXanOh"
+                  },
+                  {
+                      "id":  "n_d1_13",
+                      "type":  "text",
+                      "x":  158,
+                      "y":  1881,
+                      "width":  500,
+                      "height":  240,
+                      "text":  "[飞书图片节点]\nToken: Hi4qbZmSjoz2e9xNPoFcrQ9fndf"
+                  },
+                  {
+                      "id":  "n_d1_12",
+                      "type":  "text",
+                      "x":  158,
+                      "y":  1881,
+                      "width":  500,
+                      "height":  225,
+                      "text":  "[飞书图片节点]\nToken: DPOlbmlk5oUFjVxrvK6cLCrznNH"
+                  },
+                  {
+                      "id":  "n_z1_86",
+                      "type":  "text",
+                      "x":  242,
+                      "y":  202,
+                      "width":  362,
+                      "height":  124,
+                      "text":  "层次结构\n分层目的：解决存储容量、价格、存储速度之间的矛盾\n速度快的存储器价格贵，容量小\n价格低的存储器速度慢，容量大",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_87",
+                      "type":  "text",
+                      "x":  664,
+                      "y":  100,
+                      "width":  120,
+                      "height":  102,
+                      "text":  "CPU内\n寄存器\ncache",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_88",
+                      "type":  "text",
+                      "x":  664,
+                      "y":  185,
+                      "width":  120,
+                      "height":  102,
+                      "text":  "主板内\ncache\n主存储器",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_89",
+                      "type":  "text",
+                      "x":  664,
+                      "y":  270,
+                      "width":  120,
+                      "height":  80,
+                      "text":  "主板外\n磁盘、光盘",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_90",
+                      "type":  "text",
+                      "x":  664,
+                      "y":  334,
+                      "width":  120,
+                      "height":  80,
+                      "text":  "离线\n磁带",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_91",
+                      "type":  "text",
+                      "x":  242,
+                      "y":  433,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "二级存储系统",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_92",
+                      "type":  "text",
+                      "x":  402,
+                      "y":  415,
+                      "width":  212,
+                      "height":  60,
+                      "text":  "内存：CPU能直接访问的存储器",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_93",
+                      "type":  "text",
+                      "x":  402,
+                      "y":  451,
+                      "width":  604,
+                      "height":  60,
+                      "text":  "外存（辅存）：CPU不能直接访问的存储器。解决存储容量问题，以满足计算机的大容量需求。",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_94",
+                      "type":  "text",
+                      "x":  242,
+                      "y":  793,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "三级存储系统",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_95",
+                      "type":  "text",
+                      "x":  402,
+                      "y":  503,
+                      "width":  418,
+                      "height":  124,
+                      "text":  "cache\n高速缓存（cache）：比其他内存速度更快容量更小的存储器。\n目的是提高访问速度，使主存存取速度和CPU运算速度相匹配。\n可分成L1cache、L2cache、L3cache。",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_96",
+                      "type":  "text",
+                      "x":  402,
+                      "y":  752,
+                      "width":  530,
+                      "height":  60,
+                      "text":  "主存：除了cache之外的其他常规内存。用来存放系统运行期间的大量程序和数据。",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_97",
+                      "type":  "text",
+                      "x":  402,
+                      "y":  1048,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "外存",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_98",
+                      "type":  "text",
+                      "x":  242,
+                      "y":  1101,
+                      "width":  516,
+                      "height":  208,
+                      "text":  "存储系统层次",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_99",
+                      "type":  "text",
+                      "x":  818,
+                      "y":  1172,
+                      "width":  147,
+                      "height":  60,
+                      "text":  "缓存-主存层次：内存",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_100",
+                      "type":  "text",
+                      "x":  818,
+                      "y":  1209,
+                      "width":  147,
+                      "height":  60,
+                      "text":  "主存-辅存层次：虚存",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_101",
+                      "type":  "text",
+                      "x":  992,
+                      "y":  634,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "存储地址分配",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_102",
+                      "type":  "text",
+                      "x":  1152,
+                      "y":  608,
+                      "width":  486,
+                      "height":  60,
+                      "text":  "字节存储单元：存放一个字节（1B=8bit）的单元，相应的地址成为字节地址",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_103",
+                      "type":  "text",
+                      "x":  1152,
+                      "y":  645,
+                      "width":  524,
+                      "height":  80,
+                      "text":  "字存储单元：存放一个机器字（1W=nB）的存储单元，相应的单元地址叫字地址。\n双字存储单元：存放两个机器字的存储单元，相应的单元地址叫双字地址",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_104",
+                      "type":  "text",
+                      "x":  992,
+                      "y":  871,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "性能指标",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_105",
+                      "type":  "text",
+                      "x":  1124,
+                      "y":  709,
+                      "width":  453,
+                      "height":  124,
+                      "text":  "存储容量\n指一个存储器中可以容纳的信息比特数，如KB、MB、GB、TB。\n可表示为：存储字数（存储单元数）*存储字长（每单元的比特数）。\n如1M*1bit、128K*8bit、512K*4bit。",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_106",
+                      "type":  "text",
+                      "x":  1124,
+                      "y":  814,
+                      "width":  269,
+                      "height":  80,
+                      "text":  "存取时间（存储器访问时间）\n指一次读/写操作命令发出到该操作完成",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_107",
+                      "type":  "text",
+                      "x":  1124,
+                      "y":  879,
+                      "width":  614,
+                      "height":  102,
+                      "text":  "存储周期\n指存储器连续读写过程中一次完整的存取操作所需的时间，CPU连续两次访问存储器的最小时间间隔。通常，存储周期略大于存取时间。\n存储周期=存取时间+线路恢复时间",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_108",
+                      "type":  "text",
+                      "x":  1124,
+                      "y":  984,
+                      "width":  488,
+                      "height":  80,
+                      "text":  "存储器带宽\n单位时间里存储器所存取的信息量，通常以bit/s、B/s或者MB/s做度量单位",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_109",
+                      "type":  "text",
+                      "x":  242,
+                      "y":  1910,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "半导体存储芯片",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_110",
+                      "type":  "text",
+                      "x":  416,
+                      "y":  1518,
+                      "width":  516,
+                      "height":  285,
+                      "text":  "RAM（random access memory，随机读写存储器）\n掉电丢失数据，随机读写，速度比ROM快",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_111",
+                      "type":  "text",
+                      "x":  416,
+                      "y":  2148,
+                      "width":  321,
+                      "height":  102,
+                      "text":  "ROM(read only memory，只读存储器)\n掉电不丢失数据，只能读不能写，速度比RAM慢\nROM-\u003ePROM-\u003eEPROM-\u003eE2PROM-\u003eFlash",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_112",
+                      "type":  "text",
+                      "x":  992,
+                      "y":  1333,
+                      "width":  516,
+                      "height":  311,
+                      "text":  "SRAM（static RAM，静态RAM）\n存储位元是很多门电路组成的锁存器（触发器）",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_113",
+                      "type":  "text",
+                      "x":  992,
+                      "y":  1652,
+                      "width":  572,
+                      "height":  362,
+                      "text":  "DRAM（dynamic RAM，动态RAM）\n存储位元是一个MOS管和一个电容，增加了行地址锁存器和列地址锁存器\n实现地址线复用从而分时传送行列地址码，增加了刷新计数器实现读出后再生和定时刷新",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_114",
+                      "type":  "text",
+                      "x":  1624,
+                      "y":  1819,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "刷新",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_115",
+                      "type":  "text",
+                      "x":  1728,
+                      "y":  1681,
+                      "width":  264,
+                      "height":  60,
+                      "text":  "定义：对DRAM定期进行的全部重写过程",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_116",
+                      "type":  "text",
+                      "x":  1728,
+                      "y":  1717,
+                      "width":  572,
+                      "height":  60,
+                      "text":  "原因：因电容泄露而引起的DRAM所需信息的衰减需要及时补充，因此安排了定期刷新操作",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_117",
+                      "type":  "text",
+                      "x":  1728,
+                      "y":  1957,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "刷新方法",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_118",
+                      "type":  "text",
+                      "x":  1860,
+                      "y":  1754,
+                      "width":  516,
+                      "height":  153,
+                      "text":  "集中式\n在最大刷新间隔时间内，集中安排一段时间进行刷新，存在CPU访存死时间",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_119",
+                      "type":  "text",
+                      "x":  1860,
+                      "y":  1914,
+                      "width":  395,
+                      "height":  162,
+                      "text":  "分散式\n在每个读/写周期之后插入一个刷新周期，无CPU访存死时间",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_120",
+                      "type":  "text",
+                      "x":  1860,
+                      "y":  2084,
+                      "width":  166,
+                      "height":  80,
+                      "text":  "异步式\n集中式和分散式的折中",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_122",
+                      "type":  "text",
+                      "x":  242,
+                      "y":  2380,
+                      "width":  384,
+                      "height":  80,
+                      "text":  "存储容量的扩展\n所需芯片数d=设计要求的存储器容量/选择芯片存储器容量",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_123",
+                      "type":  "text",
+                      "x":  686,
+                      "y":  2249,
+                      "width":  614,
+                      "height":  117,
+                      "text":  "位扩展\n给定的芯片字长位数较短，需要在位数方向扩展（加大字长），而芯片的字数和存储器字数一致。\n位扩展连接方式：将个存储芯片地址线、片选线和读写控制线相应的并连起来公用，而将各芯片的数据线单独列出分开连接",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_124",
+                      "type":  "text",
+                      "x":  686,
+                      "y":  2375,
+                      "width":  614,
+                      "height":  102,
+                      "text":  "字扩展\n给定芯片字数少，仅需要在字数方向扩展，而位数不变。\n字扩展方法：字扩展将芯片的地址线、数据线和读写控制线并联公用，由片选信号来区分各个芯片。",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_125",
+                      "type":  "text",
+                      "x":  686,
+                      "y":  2480,
+                      "width":  488,
+                      "height":  80,
+                      "text":  "字位扩展\n给定的芯片字数和位数均不符合要求，需要先进行位扩展，再进行字扩展。",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_126",
+                      "type":  "text",
+                      "x":  242,
+                      "y":  2649,
+                      "width":  142,
+                      "height":  60,
+                      "text":  "提高访存速度的措施",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_127",
+                      "type":  "text",
+                      "x":  444,
+                      "y":  2560,
+                      "width":  302,
+                      "height":  80,
+                      "text":  "芯片技术：提高单个芯片的访问速度\n如突发传输技术，SDRAM技术，CDRAM技术",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_128",
+                      "type":  "text",
+                      "x":  444,
+                      "y":  2625,
+                      "width":  530,
+                      "height":  102,
+                      "text":  "结构技术：改进存储器和CPU之间的连接方式\n如采用并行技术的双端口存储器（使用两套独立的读写电路，属于空间并行技术）\n多体交叉存储器（读芯片组模块时非顺序读而是交叉读，属于时间并行技术）",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_129",
+                      "type":  "text",
+                      "x":  444,
+                      "y":  2710,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "层次技术",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_130",
+                      "type":  "text",
+                      "x":  242,
+                      "y":  3213,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "cache和虚存",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_131",
+                      "type":  "text",
+                      "x":  398,
+                      "y":  2974,
+                      "width":  306,
+                      "height":  60,
+                      "text":  "cache：解决CPU和主存之间的速度不匹配问题",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_132",
+                      "type":  "text",
+                      "x":  764,
+                      "y":  2762,
+                      "width":  591,
+                      "height":  60,
+                      "text":  "访存局部性：存储空间90%的访问局限于存储空间的10%的区域中，另外10%的访问则分布在90%的区域中。",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_133",
+                      "type":  "text",
+                      "x":  764,
+                      "y":  2818,
+                      "width":  604,
+                      "height":  117,
+                      "text":  "cache的基本原理\nCPU读取内存时，发出要读的字的内存地址到cache和内存，若cache命中，则直接从cache读出该字传送给CPU，若cache未命中，则把该字从主存读出送到CPU并同时送往cache。\n由于程序局部性原理，cache的命中率可接近于1，使得在性能上，内存的平均读出时间可接近cache的读出时间",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_134",
+                      "type":  "text",
+                      "x":  764,
+                      "y":  2944,
+                      "width":  395,
+                      "height":  80,
+                      "text":  "cache命中率h=cache存取次数Nc/内存存取次数\n=cache存取次数Nc/（cache存取次数Nc+主存存取次数Nm）",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_135",
+                      "type":  "text",
+                      "x":  764,
+                      "y":  3000,
+                      "width":  473,
+                      "height":  60,
+                      "text":  "平均访问时间ta=命中率h*cache访问时间tc+(1-命中率h)*主存访问时间tm",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_136",
+                      "type":  "text",
+                      "x":  764,
+                      "y":  3037,
+                      "width":  516,
+                      "height":  307,
+                      "text":  "访问效率e=cache访问时间tc/平均访问时间ta",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_137",
+                      "type":  "text",
+                      "x":  242,
+                      "y":  4024,
+                      "width":  138,
+                      "height":  60,
+                      "text":  "主存和cache的映射",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_138",
+                      "type":  "text",
+                      "x":  440,
+                      "y":  3630,
+                      "width":  516,
+                      "height":  262,
+                      "text":  "全相联：主存的数据块可复制到cache的任意一行",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_139",
+                      "type":  "text",
+                      "x":  440,
+                      "y":  3900,
+                      "width":  516,
+                      "height":  277,
+                      "text":  "直接相连：主存的数据块可复制到cache的固定某一行",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_140",
+                      "type":  "text",
+                      "x":  440,
+                      "y":  4184,
+                      "width":  516,
+                      "height":  283,
+                      "text":  "组相联：主存的数据块可复制到cache的固定某一组的任意一行",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_141",
+                      "type":  "text",
+                      "x":  398,
+                      "y":  3452,
+                      "width":  567,
+                      "height":  60,
+                      "text":  "虚存：在主存和辅存之外附加一些硬件和软件实现，属于三级存储体系中的主存-辅存层次",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_142",
+                      "type":  "text",
+                      "x":  1025,
+                      "y":  3352,
+                      "width":  604,
+                      "height":  60,
+                      "text":  "引入原因：CPU能直接访问的只有内存，因此程序只有先调入内存才能运行，而某些程序需要很大内存，物理内存不能满足程序需要",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_143",
+                      "type":  "text",
+                      "x":  1025,
+                      "y":  3408,
+                      "width":  604,
+                      "height":  89,
+                      "text":  "原理：程序运行时，给程序分配一定运行空间，把程序部分调入内存。当分配的内存不够，只调入当前正在运行或将要运行的程序块，其余部分继续驻留在辅存。这样程序的虚地址空间可以远大于实地址空间。基于局部性原理，当主存命中率很高，虚存访问时间可接近于主存访问时间。而虚存大小仅依赖于辅存大小。",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_144",
+                      "type":  "text",
+                      "x":  1025,
+                      "y":  3542,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "分类",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_145",
+                      "type":  "text",
+                      "x":  1129,
+                      "y":  3505,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "页式虚存",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_146",
+                      "type":  "text",
+                      "x":  1129,
+                      "y":  3542,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "段式虚存",
+                      "color":  "#5178c6"
+                  },
+                  {
+                      "id":  "n_z1_147",
+                      "type":  "text",
+                      "x":  1129,
+                      "y":  3578,
+                      "width":  120,
+                      "height":  60,
+                      "text":  "段页式虚存",
+                      "color":  "#5178c6"
+                  }
+              ],
+    "edges":  [
+                  {
+                      "id":  "e_1",
+                      "fromNode":  "n_z1_140",
+                      "fromSide":  "top",
+                      "toNode":  "n_d1_14",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_2",
+                      "fromNode":  "n_z1_119",
+                      "fromSide":  "left",
+                      "toNode":  "n_d1_8",
+                      "toSide":  "right"
+                  },
+                  {
+                      "id":  "e_3",
+                      "fromNode":  "n_z1_136",
+                      "fromSide":  "top",
+                      "toNode":  "n_d1_11",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_4",
+                      "fromNode":  "n_z1_138",
+                      "fromSide":  "top",
+                      "toNode":  "n_d1_12",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_5",
+                      "fromNode":  "n_z1_139",
+                      "fromSide":  "top",
+                      "toNode":  "n_d1_13",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_6",
+                      "fromNode":  "n_z1_110",
+                      "fromSide":  "bottom",
+                      "toNode":  "n_d1_9",
+                      "toSide":  "top"
+                  },
+                  {
+                      "id":  "e_7",
+                      "fromNode":  "n_z1_98",
+                      "fromSide":  "bottom",
+                      "toNode":  "n_d1_1",
+                      "toSide":  "top"
+                  },
+                  {
+                      "id":  "e_8",
+                      "fromNode":  "n_z1_112",
+                      "fromSide":  "left",
+                      "toNode":  "n_d1_5",
+                      "toSide":  "right"
+                  },
+                  {
+                      "id":  "e_9",
+                      "fromNode":  "n_z1_113",
+                      "fromSide":  "left",
+                      "toNode":  "n_d1_6",
+                      "toSide":  "right"
+                  },
+                  {
+                      "id":  "e_10",
+                      "fromNode":  "n_z1_118",
+                      "fromSide":  "left",
+                      "toNode":  "n_d1_7",
+                      "toSide":  "right"
+                  },
+                  {
+                      "id":  "e_11",
+                      "fromNode":  "n_z1_131",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_136",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_12",
+                      "fromNode":  "n_z1_130",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_141",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_13",
+                      "fromNode":  "n_z1_144",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_145",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_14",
+                      "fromNode":  "n_z1_46",
+                      "fromSide":  "top",
+                      "toNode":  "n_z1_94",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_15",
+                      "fromNode":  "n_z1_46",
+                      "fromSide":  "top",
+                      "toNode":  "n_z1_109",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_16",
+                      "fromNode":  "n_z1_114",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_116",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_17",
+                      "fromNode":  "n_z1_114",
+                      "fromSide":  "bottom",
+                      "toNode":  "n_z1_117",
+                      "toSide":  "top"
+                  },
+                  {
+                      "id":  "e_18",
+                      "fromNode":  "n_z1_46",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_122",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_19",
+                      "fromNode":  "n_z1_104",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_106",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_20",
+                      "fromNode":  "n_z1_94",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_96",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_21",
+                      "fromNode":  "n_z1_109",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_111",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_22",
+                      "fromNode":  "n_z1_137",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_138",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_23",
+                      "fromNode":  "n_z1_122",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_123",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_24",
+                      "fromNode":  "n_z1_141",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_142",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_25",
+                      "fromNode":  "n_z1_104",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_105",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_26",
+                      "fromNode":  "n_z1_104",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_107",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_27",
+                      "fromNode":  "n_z1_110",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_113",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_28",
+                      "fromNode":  "n_z1_114",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_115",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_29",
+                      "fromNode":  "n_z1_117",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_118",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_30",
+                      "fromNode":  "n_z1_117",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_119",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_31",
+                      "fromNode":  "n_z1_46",
+                      "fromSide":  "bottom",
+                      "toNode":  "n_z1_126",
+                      "toSide":  "top"
+                  },
+                  {
+                      "id":  "e_32",
+                      "fromNode":  "n_z1_126",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_127",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_33",
+                      "fromNode":  "n_z1_131",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_133",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_34",
+                      "fromNode":  "n_z1_46",
+                      "fromSide":  "bottom",
+                      "toNode":  "n_z1_137",
+                      "toSide":  "top"
+                  },
+                  {
+                      "id":  "e_35",
+                      "fromNode":  "n_z1_96",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_101",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_36",
+                      "fromNode":  "n_z1_46",
+                      "fromSide":  "bottom",
+                      "toNode":  "n_z1_130",
+                      "toSide":  "top"
+                  },
+                  {
+                      "id":  "e_37",
+                      "fromNode":  "n_z1_137",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_140",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_38",
+                      "fromNode":  "n_z1_86",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_89",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_39",
+                      "fromNode":  "n_z1_98",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_99",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_40",
+                      "fromNode":  "n_z1_144",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_146",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_41",
+                      "fromNode":  "n_z1_101",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_102",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_42",
+                      "fromNode":  "n_z1_98",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_100",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_43",
+                      "fromNode":  "n_z1_117",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_120",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_44",
+                      "fromNode":  "n_z1_137",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_139",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_45",
+                      "fromNode":  "n_z1_46",
+                      "fromSide":  "top",
+                      "toNode":  "n_z1_86",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_46",
+                      "fromNode":  "n_z1_104",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_108",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_47",
+                      "fromNode":  "n_z1_113",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_114",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_48",
+                      "fromNode":  "n_z1_122",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_125",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_49",
+                      "fromNode":  "n_z1_131",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_134",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_50",
+                      "fromNode":  "n_z1_94",
+                      "fromSide":  "bottom",
+                      "toNode":  "n_z1_97",
+                      "toSide":  "top"
+                  },
+                  {
+                      "id":  "e_51",
+                      "fromNode":  "n_z1_131",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_135",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_52",
+                      "fromNode":  "n_z1_86",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_87",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_53",
+                      "fromNode":  "n_z1_86",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_88",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_54",
+                      "fromNode":  "n_z1_94",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_95",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_55",
+                      "fromNode":  "n_z1_96",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_104",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_56",
+                      "fromNode":  "n_z1_144",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_147",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_57",
+                      "fromNode":  "n_z1_110",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_112",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_58",
+                      "fromNode":  "n_z1_126",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_128",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_59",
+                      "fromNode":  "n_z1_131",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_132",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_60",
+                      "fromNode":  "n_z1_46",
+                      "fromSide":  "top",
+                      "toNode":  "n_z1_91",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_61",
+                      "fromNode":  "n_z1_101",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_103",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_62",
+                      "fromNode":  "n_z1_109",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_110",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_63",
+                      "fromNode":  "n_z1_141",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_143",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_64",
+                      "fromNode":  "n_z1_86",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_90",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_65",
+                      "fromNode":  "n_z1_91",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_93",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_66",
+                      "fromNode":  "n_z1_46",
+                      "fromSide":  "top",
+                      "toNode":  "n_z1_98",
+                      "toSide":  "bottom"
+                  },
+                  {
+                      "id":  "e_67",
+                      "fromNode":  "n_z1_122",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_124",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_68",
+                      "fromNode":  "n_z1_130",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_131",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_69",
+                      "fromNode":  "n_z1_91",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_92",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_70",
+                      "fromNode":  "n_z1_141",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_144",
+                      "toSide":  "left"
+                  },
+                  {
+                      "id":  "e_71",
+                      "fromNode":  "n_z1_126",
+                      "fromSide":  "right",
+                      "toNode":  "n_z1_129",
+                      "toSide":  "left"
+                  }
+              ]
+}
