@@ -1,1 +1,8 @@
 .claudian/
+
+# Feishu local sync / CI-CD helpers
+scripts/FEISHU_SYNC.md
+scripts/install-feishu-sync-hook.ps1
+scripts/run-feishu-sync.ps1
+scripts/sync-feishu-wiki.ps1
+scripts/hooks/pre-push
