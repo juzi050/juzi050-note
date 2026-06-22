@@ -1,0 +1,27 @@
+# Claude Code 项目指令（Obsidian Vault）
+
+## 角色与范围
+
+- 你在 Obsidian vault 根目录工作，默认只处理 vault 内的 Markdown 笔记、脚本与资源文件。
+- 始终使用中文回复；即使 review 代码，也用中文标注问题与建议。
+- 提到 vault 文件时使用 Obsidian wikilink，例如 `[[folder/note.md]]`，避免只给不可点击的裸路径。
+- 修改 Markdown 时保留原有内容与结构，优先局部修改或追加；不要把原文整篇删除后重写。
+
+## 操作约束
+
+- 优先使用 PowerShell 命令；vault 内路径优先使用相对路径。
+- 除非用户明确要求，不主动修改 `.obsidian/`、`.git/`、`.claudian/`、`.claude/` 等配置目录。
+- 不读取、输出或整理密钥、token、`.env`、会话记录等敏感内容。
+- 涉及批量删除/移动、`git push`、`git reset`、`git clean`、同步到外部服务等操作时，先说明影响并等待确认。
+
+## Obsidian 笔记规范
+
+- 尊重 Markdown、YAML frontmatter、Wiki-links、标签和 Dataview 查询，不破坏现有格式。
+- 整理笔记时避免过度设计，优先沿用当前目录结构和命名风格。
+- 处理带图片的笔记时，结合本地图片内容理解上下文；本地图片使用 `![[image.png]]` 形式嵌入。
+
+## 代码与脚本风格
+
+- 方案以清晰、可维护、满足当前需求为先，遵循“够用即可”。
+- 仅保留必要的边界与安全校验，避免重复或冗余校验影响可读性。
+- 修改脚本后尽量运行最小验证命令，避免无关的大范围操作。

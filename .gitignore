@@ -6,3 +6,8 @@ scripts/install-feishu-sync-hook.ps1
 scripts/run-feishu-sync.ps1
 scripts/sync-feishu-wiki.ps1
 scripts/hooks/pre-push
+
+# Claude Code local overrides
+.claude/settings.local.json
+CLAUDE.local.md
+.claude_temp/
